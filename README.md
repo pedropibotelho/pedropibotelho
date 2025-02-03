@@ -28,7 +28,6 @@
   </a>
 </div>
 
-- In English:
 ## What's Up? 👋
 - My name is **Pedro Botelho** and I'm a **Systems Analysis and Development** student👨‍💻
 - I'm always looking for a new **adventure**, a new challenge, I like to study and learn new things about **technology**.
