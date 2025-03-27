@@ -1,5 +1,5 @@
 ## Opa Beleza? 👋
-- Me chamo **Pedro Botelho** e sou estudandante do curso **Análise e Desenvolvimento de Sistemas**👨‍💻
+- Me chamo **Pedro Botelho** e sou formado no curso **Análise e Desenvolvimento de Sistemas**👨‍💻
 - Busco sempre uma nova **aventura**, um novo desafio, gosto de estudar e aprender coisas novas sobre **tecnologia**.
 - Algumas **Tecnologias** que já me aventurei:
 <div display="inline">
@@ -29,7 +29,7 @@
 </div>
 
 ## What's Up? 👋
-- My name is **Pedro Botelho** and I'm a **Systems Analysis and Development** student👨‍💻
+- My name is **Pedro Botelho** and I'm a **Systems Analysis and Development** 👨‍💻
 - I'm always looking for a new **adventure**, a new challenge, I like to study and learn new things about **technology**.
 - Some **Technologies** that I have already tried:
 <div display="inline">
